@@ -64,7 +64,7 @@ yarn dev
 
 ```json
 {
-    "msg":"Ingredient created successfully".
+    "msg":"Ingredient created successfully",
     "data":{
   "_id": "674b35d84723ef7e98d94975",
   "name": "salt",
@@ -87,7 +87,7 @@ yarn dev
 
 ```json
 {
-    "msg":"Ingredient updated successfully"
+    "msg":"Ingredient updated successfully",
     "data":{
   "_id": "674b35d84723ef7e98d94975",
   "name": "salt",
