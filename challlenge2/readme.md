@@ -4,7 +4,7 @@
 
 - Node.js
 - MongoDB
-- npm
+- yarn
 
 ### Installation
 
